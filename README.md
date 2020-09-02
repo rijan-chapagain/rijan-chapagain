@@ -2,7 +2,7 @@
 
 ![Rijan's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=rijan-chapagain&count_private=true&show_icons=true&hide_border=true)
 
-![Rijan Chapagain's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijan-chapagain&layout=compact&hide_border=true&count_private=true)
+![Rijan Chapagain's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijan-chapagain&count_private=true&layout=compact&hide_border=true)
 
 ### Connect with me:
 
