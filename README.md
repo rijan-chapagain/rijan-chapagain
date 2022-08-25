@@ -10,3 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rijan-chapagain&hide=prs&count_private=true&show_icons=true&custom_title=Github Stats" />
   </a>
 </div>
+
+<div>
+  <a href="https://app.daily.dev/Rijan"><img src="https://api.daily.dev/devcards/3dfdbed7783b498abf726f201d4e2d2d.png?r=rr6" width="400" alt="Rijan Chapagain's Dev Card"/></a>
+</div>
