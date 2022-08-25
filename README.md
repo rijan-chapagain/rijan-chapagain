@@ -4,5 +4,5 @@
 | ------------- | ------------- |
 
 <div align="center">
-  <a href="https://app.daily.dev/Rijan"><img src="https://api.daily.dev/devcards/3dfdbed7783b498abf726f201d4e2d2d.png?r=rr6" width="400" alt="Rijan Chapagain's Dev Card"/></a>
+  <a href="https://app.daily.dev/Rijan"><img src="https://github.com/rijan-chapagain/rijan-chapagain/blob/master/devcard.svg" width="400" alt="Rijan Chapagain's Dev Card"/></a>
 </div>
